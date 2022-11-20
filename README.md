@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vivek</h1>
-<h3 align="center">I am currently training to become a DevOps consultant.</h3>
+<h3 align="center">I am a DevOps consultant.</h3>
 
 - 📫 How to reach me **vivrk2989@gmail.com**
 
